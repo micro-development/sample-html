@@ -5,13 +5,14 @@
   "targetDir": "git-static",
   "gitHost": "https://github.com",
   "gitNamespace": "micro-development",
+  "packageKeySplit": "!!!",
   "dependencies": {
-    "sample-js#master": {
+    "sample-js!!!master": {
       "gitRepoName": "sample-js",
       "gitBranchName": "master",
       "lock": false
     },
-    "sample-css#master": {
+    "sample-css!!!master": {
       "gitRepoName": "sample-css",
       "gitBranchName": "master",
       "lock": false
