@@ -1,0 +1,10 @@
+{
+  "name": "sample-html",
+  "description": "sample-demo-html",
+  "author": "yaimeet",
+  "targetDir": "git-static",
+  "gitHost": "https://github.com",
+  "gitNamespace": "micro-development",
+  "dependencies": {},
+  "lock": false
+}
