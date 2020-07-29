@@ -102,3 +102,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# 脚手架 git 仓库依赖 存储目录
+git-static
