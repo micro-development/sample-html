@@ -16,6 +16,11 @@
       "gitRepoName": "sample-css",
       "gitBranchName": "master",
       "lock": false
+    },
+    "sample-css!!!bg_custom": {
+      "gitRepoName": "sample-css",
+      "gitBranchName": "bg_custom",
+      "lock": false
     }
   },
   "lock": false
